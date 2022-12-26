@@ -10,3 +10,4 @@
 | :-------------------- | :--------------------- |:---------------------------|
 | [Интернет-магазин Стримчик](https://github.com/AntonAkhmonen/Student-projects/tree/main/Videogames%20online%20store) | Анализ данные о продажах и выявление факторов определяющих успешность компьютерных игр | pandas, numpy, matplotlib, scipy, seaborn |
 | [Тарифный план для оператора мобильной связи](https://github.com/AntonAkhmonen/Student-projects/tree/main/Tariff%20plans%20for%20mobile%20operator) | Рекомендация подходящего тарифного плана для клиентов оператора мобильной связи | pandas, sklearn |
+| [Клиенты банка](https://github.com/AntonAkhmonen/Student-projects/tree/main/Bank%20customer%20loss) | Прогноз оттока клиентов банка | pandas, sklearn |
