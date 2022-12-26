@@ -15,3 +15,4 @@
 | [Извлечение золота](https://github.com/AntonAkhmonen/Student-projects/tree/main/Gold%20recovery) | Определение оптимальной технологии извлечения золота из руды | pandas, sklearn, scipy, numpy |
 | [Определение стоимости автомобилей](https://github.com/AntonAkhmonen/Student-projects/tree/main/Car%20price%20estimation) | Выбор оптимальной модели экспресс-расчета стоимости подержанных автомобилей | pandas, sklearn, numpy, lightgbm, matplotlib, catboost |
 | [Спрос на услуги такси](https://github.com/AntonAkhmonen/Student-projects/tree/main/Taxi%20service%20forecast) | Прогнозирование спроса на услуги такси | pandas, numpy, sklearn, statsmodels, matplotlib |
+| [Классификация отзывов](https://github.com/AntonAkhmonen/Student-projects/tree/main/Customer%20comments%20classification) | Поиск токсичных комментариев в отзывах на товар в интернет-магазине | pandas, sklearn, nltk |
