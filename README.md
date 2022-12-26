@@ -5,4 +5,4 @@
 | :-------------------- | ---------------------: |:---------------------------:|
 | с выравниванием слева | с выравниванием справа | и с выравниванием по центру |
 
-[Интернет-магазин Стримчик](https://github.com/AntonAkhmonen/Student-projects/tree/main/Videogames%20online%20store)
+| [Интернет-магазин Стримчик](https://github.com/AntonAkhmonen/Student-projects/tree/main/Videogames%20online%20store) | Анализ данные о продажах и выявление факторов определяющих успешность компьютерных игр | pandas, numpy, matplotlib, scipy, seaborn |
