@@ -37,3 +37,5 @@ pandas, sklearn, numpy, matplotlib, catboost, skipy
 model = cb.CatBoostRegressor(loss_function='MAE')
 
 grid = {'iterations': [150, 200, 250], 'learning_rate': [0.1, 0.3], 'depth': [2, 4, 6, 8], 'l2_leaf_reg': [0.2, 0.5, 1, 3]}
+
+Проект завершен
